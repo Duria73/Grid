@@ -1,3 +1,4 @@
+import discoverImage from './../../images/hired1.svg';
 
 export const HomeObjTwo = {
     id: "discover",
@@ -9,7 +10,7 @@ export const HomeObjTwo = {
     description: "Each day, hundreds of new openings are posted on GridWork in every industry; Hospitality, Skilled Trades, Logistics, Industrial... And many more",
     buttonLabel: "Learn More",
     imgStart: false,
-    img: require('./../../images/hired1.svg').default,
+    img: discoverImage,
     alt: "Hired",
     dark: false,
     primary: false,

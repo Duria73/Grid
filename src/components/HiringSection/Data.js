@@ -1,3 +1,4 @@
+import hiringImage from "./../../images/construction1.svg";
 
 export const HomeObjFour= {
     id: "hiring",
@@ -9,7 +10,7 @@ export const HomeObjFour= {
     description: "If you are a business with career openings, head over to our corporate page and find out how easy it is to get started on GridWork. One of our corporate specialists will be in touch shortly... ",
     buttonLabel: "Find Out How",
     imgStart: false,
-    img: require('./../../images/construction1.svg').default,
+    img: hiringImage,
     alt: "App",
     dark: true,
     primary: true,

@@ -1,3 +1,5 @@
+import contractImg from './../../images/contract1.svg';
+
 
 export const HomeObjThree = {
     id: "services",
@@ -9,7 +11,7 @@ export const HomeObjThree = {
     description: "GridWork makes it our responsibility to manage your employment contract, pay, vacation time and legal compliance, all available to you within your employment dashboard",
     buttonLabel: "Get Started",
     imgStart: false,
-    img: require('./../../images/contract1.svg').default,
+    img: contractImg,
     alt: "App",
     dark: false,
     primary: false,
