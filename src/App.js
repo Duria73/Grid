@@ -1,7 +1,7 @@
 import React from 'react';
 import "./App.css";
 
-//components
+//component
 import Home from "./pages"
 import SigninPage from "./pages/signin"
 import {HashRouter as Router, Switch, Route} from "react-router-dom";
